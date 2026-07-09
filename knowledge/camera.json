@@ -1,0 +1,14 @@
+[
+  {
+    "id": "human_eye_38mm",
+    "label": "Human Eye 38mm",
+    "keywords": ["natural", "eye level", "architectural", "38mm"],
+    "prompt_terms": ["eye-level architectural perspective", "natural 38 mm focal length", "stable perspective lines"]
+  },
+  {
+    "id": "large_format_cinema",
+    "label": "Large Format Cinema",
+    "keywords": ["cinema", "large format", "film", "apochromatic"],
+    "prompt_terms": ["premium large-format digital cinema camera", "master-grade apochromatic cinema prime lens"]
+  }
+]

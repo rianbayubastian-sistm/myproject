@@ -1,0 +1,20 @@
+[
+  {
+    "id": "fireplace_hero_motion",
+    "label": "Fireplace Hero Motion",
+    "keywords": ["fire", "fireplace", "flame", "ember"],
+    "prompt_terms": ["hero motion only: natural fireplace flames", "layered tongues of flame", "physically accurate ember sparkle"]
+  },
+  {
+    "id": "candle_micro_motion",
+    "label": "Candle Micro Motion",
+    "keywords": ["candle", "flame", "flicker"],
+    "prompt_terms": ["extremely subtle candle flame oscillation"]
+  },
+  {
+    "id": "dust_micro_motion",
+    "label": "Airborne Dust Micro Motion",
+    "keywords": ["dust", "air", "particles"],
+    "prompt_terms": ["faint airborne dust drifting slowly with Brownian motion"]
+  }
+]

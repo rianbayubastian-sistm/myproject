@@ -1,0 +1,20 @@
+[
+  {
+    "id": "warm_tungsten",
+    "label": "Warm Tungsten",
+    "keywords": ["warm", "lamp", "tungsten", "interior"],
+    "prompt_terms": ["warm interior tungsten illumination", "soft contact shadows"]
+  },
+  {
+    "id": "cool_urban_night",
+    "label": "Cool Urban Night",
+    "keywords": ["night", "city", "urban", "cool"],
+    "prompt_terms": ["cool nocturnal urban lighting", "preserved highlight detail"]
+  },
+  {
+    "id": "global_illumination",
+    "label": "Physical Global Illumination",
+    "keywords": ["realistic", "physical", "global illumination", "bounce"],
+    "prompt_terms": ["physically accurate global illumination", "realistic indirect bounce", "subtle ambient occlusion"]
+  }
+]

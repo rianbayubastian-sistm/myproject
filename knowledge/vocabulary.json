@@ -1,0 +1,18 @@
+[
+  {
+    "term": "DNA Detection",
+    "definition": "Ekstraksi ciri visual inti seperti world, lighting, camera, material, motion, dan risk dari input."
+  },
+  {
+    "term": "Theme Mapping",
+    "definition": "Pemetaan input ke tema visual dan kategori knowledge yang dapat dipakai compiler."
+  },
+  {
+    "term": "Static Lock",
+    "definition": "Instruksi agar elemen tertentu tidak bergerak antar-frame."
+  },
+  {
+    "term": "Hero Motion",
+    "definition": "Gerakan utama yang sengaja dibiarkan hidup dalam cinemagraph."
+  }
+]
