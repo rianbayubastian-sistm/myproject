@@ -1,2 +1,0 @@
-"""VGOS engine package."""
-

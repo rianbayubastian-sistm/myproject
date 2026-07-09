@@ -1,2 +1,0 @@
-"""VGOS Streamlit UI package."""
-
