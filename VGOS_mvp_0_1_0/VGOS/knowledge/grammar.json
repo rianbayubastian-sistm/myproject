@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cinemagraph_structure",
+    "label": "Cinemagraph Structure",
+    "template": "{subject}. {camera}. {lighting}. {materials}. {motion}. {boundaries}. {negative_constraints}."
+  },
+  {
+    "id": "scene_editor_structure",
+    "label": "Scene Editor Structure",
+    "template": "Scene: {scene}; Camera: {camera}; Lighting: {lighting}; Weather: {weather}; Material: {material}; Motion: {motion}; Boundary: {boundary}; Decoration: {decoration}; Overlay: {overlay}."
+  }
+]

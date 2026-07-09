@@ -1,0 +1,14 @@
+[
+  {
+    "id": "static_lock",
+    "label": "Absolute Static Lock",
+    "keywords": ["static", "locked", "cinemagraph", "stability"],
+    "prompt_terms": ["absolute positional stability", "no camera movement", "no parallax drift"]
+  },
+  {
+    "id": "negative_temporal",
+    "label": "Temporal Artifact Guard",
+    "keywords": ["artifact", "glitch", "flicker", "morphing"],
+    "prompt_terms": ["no morphing", "no melting", "no lighting flicker", "no unstable geometry"]
+  }
+]
